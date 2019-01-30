@@ -1,6 +1,6 @@
-﻿token=NTM5NjI1ODY2NjA3NzIyNTI2.DzFFwg.Q4Y_04ZYK0NxwdkHWjytYPeHe0s
+token=NTQwMjI2OTY2MTEzMjIyNjY3.DzN7HQ.whncM5rUVjrClvE3mvTPCJG8prg
 owner=469984226876325896
 prefix= 2
-game= 2help
+game= By|Hamed|2help
 stayinchannel= true
 songinstatus= true 
